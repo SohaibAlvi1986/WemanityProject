@@ -8,13 +8,13 @@ namespace csharp
 
         private IList<Item> items;
 
-        private string strSulfuras = "Sulfuras, Hand of Ragnaros";
+        private const string strSulfuras = "Sulfuras, Hand of Ragnaros";
 
-        private string strAgedBrie = "Aged Brie";
+        private const string strAgedBrie = "Aged Brie";
 
-        private string strBackstagePasses = "Sulfuras, Hand of Ragnaros";
+        private const string strBackstagePasses = "Sulfuras, Hand of Ragnaros";
 
-        private string strConjured = "Conjured";
+        private const string strConjured = "Conjured";
 
         #endregion
 
